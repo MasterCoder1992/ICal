@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//WallfahrtsleitungWallduern//iCal4j 1.0//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20160331T090539Z
+DTSTART:20160430T100000
+DTEND:20160430T180000
+SUMMARY:Wallfahrtstag der Erstkommunionkinder
+DESCRIPTION:Wallfahrtstag der Erstkommunionkinder. Themenwallfahrtstag mi
+ t verschiedenen Angeboten im Pfarr- und Gemeindezentrum
+LOCATION:Walldürn
+TZID:Europe/Berlin
+UID:20160331T090539Z-uidGen@Humanstrain
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20160331T090539Z
+DTSTART:20160514T130000
+DTEND:20160514T170000
+SUMMARY:Motorradwallfahrt
+DESCRIPTION:Motorradwallfahrt. Vorher Mittagessen im Pfarr-und Gemeindeze
+ ntrumGottesdient um 14 Uhr \; anschließend Motorradsegnung
+LOCATION:Walldürn
+TZID:Europe/Berlin
+UID:20160331T090540Z-uidGen@Humanstrain
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20160331T090539Z
+DTSTART:20160522T080000
+DTEND:20160619T220000
+SUMMARY:Hauptwallfahrtszeit 2016
+DESCRIPTION: "Barmherzigkeit will ich\, nicht Opfer!"(Mt 9\,13).\n Hautpw
+ allfahrtszeit in Walldürn
+LOCATION:Walldürn
+TZID:Europe/Berlin
+UID:20160331T090541Z-uidGen@Humanstrain
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20160331T090539Z
+DTSTART:20160910T130000
+DTEND:20160910T220000
+SUMMARY:Fahrradwallfahrt 2016
+DESCRIPTION:Fahrradwallfahrt 2016 - nähere Informationen folgen
+LOCATION:Walldürn
+TZID:Europe/Berlin
+UID:20160331T090542Z-uidGen@Humanstrain
+END:VEVENT
+END:VCALENDAR

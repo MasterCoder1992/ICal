@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:-//WallfahrtsleitungWallduern//iCal4j 1.0//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20151006T184344Z
+DTSTART:20150912T100000
+DTEND:20150912T150000
+SUMMARY:Rundfahrt für den Frieden
+DESCRIPTION:Der Treffpunkt für die  Radlerinnen und Radler aus Walldürn u
+ nd Umgebung ist um 09.45 Uhr an der Friedenskapellein der Würzburger Str
+ aße gegenüber den Walldürner Stadtwerken und der AGIP-Tankstelle.Die Abf
+ ahrt erfolgt dann um 10.00 Uhr.\n Ab 12.00 Uhr ist dann das Mittagessen 
+ im Pfarrheim vorgesehen.Um 13.30 Uhr beginnt derGottesdienst in der Wall
+ fahrtsbasilika mit abschließender Segnung der Fahrräder auf dem Wallfahr
+ tsplatz und Reisesegen für die Teilnehmer.Im Anschluss daran stehen noch
+  Kaffee und Kuchen bereit\, bevor die Teilnehmer der Radwallfahrt wieder
+  ihre Rückfahrt antreten.
+LOCATION:Walldürn
+TZID:Europe/Berlin
+UID:20151006T184344Z-uidGen@Humanstrain
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151006T184344Z
+DTSTART:20150925T150000
+DTEND:20150927T160000
+SUMMARY:Reise-Mobil-Wallfahrt
+DESCRIPTION:Bereits zum vierten Mal gibt es vom 25. bis 27. September 201
+ 5 wieder eine spezielle Wallfahrt für Reisemobilisten\, Wohnwagen-Gespan
+ ne und Oldtimer in Walldürn. Die Teilnahmegebühr beträgt 42 Euro. Anmeld
+ ungen beim Wallfahrtsbüro: Burgstraße 24\, 74731 Walldürn\, Tel.: 62 82 
+ / 9 20 30Weitere Infos unter: www.wallfahrt-wallduern.de
+LOCATION:Walldürn
+TZID:Europe/Berlin
+UID:20151006T184345Z-uidGen@Humanstrain
+END:VEVENT
+END:VCALENDAR
